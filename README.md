@@ -47,4 +47,5 @@
 [add your transcription and/or notes from your client interview in this format:
 
 clients name: "I have this problem you see..."
+
 student: "Oh, really? Tell me more about that, please"]
