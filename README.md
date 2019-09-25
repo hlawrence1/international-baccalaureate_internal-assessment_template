@@ -42,3 +42,9 @@
 
 ## Success Criteria
 [Write a bulleted list of criteria you will use to define the success of your product. Each criteria must be testable. A criteria is similar to a hypothesis; a testable and educated estimation of what your results your product will return.]
+
+# Interview
+[add your transcription and/or notes from your client interview in this format:
+
+clients name: "I have this problem you see..."
+student: "Oh, really? Tell me more about that, please"]
