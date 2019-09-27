@@ -1,10 +1,10 @@
-# [Write your project name]
+# [Electronic Light Switch]
 
 ## Problem Question
-[write the question your project seeks to find a solution for]
+[How can you be sure the light switch is off without being in the room?]
 
 ### Project Description
-[write a paragraph describing your client, your client's problem, and the solution you plan to create with your project.]
+[My client is me.]
 
 ### Project Timeline
 
