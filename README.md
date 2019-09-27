@@ -1,4 +1,4 @@
-# [Electronic Light Switch]
+# Electronic Light Switch
 
 ## Problem Question
 [How can you be sure the light switch is off without being in the room?]
