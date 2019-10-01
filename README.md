@@ -1,10 +1,10 @@
 # Electronic Light Switch
 
 ## Problem Question
-[How can you be sure the light switch is off without being in the room?]
+How can you be sure the light switch is off without being in the room?
 
 ### Project Description
-[My client is me.]
+My client is me.
 
 ### Project Timeline
 
