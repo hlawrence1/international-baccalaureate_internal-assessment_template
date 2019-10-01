@@ -10,7 +10,7 @@ My client is me.
 
 #### Sep-Oct    (month 0-1)
 [create a bulleted list describing the parts of the project you plan to work on]
-* example bullet list item
+* Planning
 
 #### Oct-Nov    (month 1-2)
 [create a bulleted list describing the parts of the project you plan to work on]
