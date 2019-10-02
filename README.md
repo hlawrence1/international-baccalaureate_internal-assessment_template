@@ -9,30 +9,33 @@ My client is me.
 ### Project Timeline
 
 #### Sep-Oct    (month 0-1)
-[create a bulleted list describing the parts of the project you plan to work on]
-* example bullet list item
+* - plan / design
 
 #### Oct-Nov    (month 1-2)
-[create a bulleted list describing the parts of the project you plan to work on]
+* - start coding / developing
 
 #### Nov-Dec    (month 2-1)
-[create a bulleted list describing the parts of the project you plan to work on]
+* - prototype
 
 #### Dec-Jan    (month 3-4)
-[create a bulleted list describing the parts of the project you plan to work on]
+* - work out bugs
 
 #### Jan-Feb    (month 4-5)
-[create a bulleted list describing the parts of the project you plan to work on]
+* - final prototype
 
 #### Feb-March  (month 5-6)
+* - present
 
 # Criterion A
 ## Scenario
-[Write up to 250 words in paragraph form that explains the following:
-* Who is the client and why did you select them?
+My client is partly me, and the world. My design will enforce that the light switches are turned off when not needed remotley. It will save energy, and provide reassurance that the electricity bill is only what is needed. 
+
+My advisory is Tristan, the reason I chose Tristan is because of her knowledge of coding and her experience with the assignment. She can also help me with designing the physical components.
+
+The electronic light switch will be a small device with a motor and a sensor to make sure the light switch is off from a phone or a computer.
 * Summarize your discussion with the client about their problem. Include details of what the client actually wants.
-* Who is the adviser and why did you select them?
-* What is your proposed product? Explain how the product is an appropriate solution to the client's problem.
+
+
 ]
 
 ## Rationale
