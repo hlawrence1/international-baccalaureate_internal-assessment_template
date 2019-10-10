@@ -30,7 +30,7 @@ My client is me.
 ## Scenario
 My client is partly me, and the world. My design will enforce that the light switches are turned off when not needed remotley. It will save energy, and provide reassurance that the electricity bill is only what is needed. 
 
-My advisory is Tristan, the reason I chose Tristan is because of her knowledge of coding and her experience with the assignment. She can also help me with designing the physical components.
+My advisor is Tristan, the reason I chose Tristan is because of her knowledge of coding and her experience with the assignment. She can also help me with designing the physical components.
 
 The electronic light switch will be a small device with a motor and a sensor to make sure the light switch is off from a phone or a computer.
 * Summarize your discussion with the client about their problem. Include details of what the client actually wants.
@@ -39,8 +39,9 @@ The electronic light switch will be a small device with a motor and a sensor to 
 ]
 
 ## Rationale
-[Write up to 250 words in paragraph form that explains the following:
-* Describe the software you will build. What language you will build it in? Will you use any libraries or frameworks in your code?
+
+I will use Python because I am most familiar and it is relatively simple to use it for robotics. 
+
 * Justify your approach to solving the client’s problem. Justify your choice of software. Your argument must be specific, and directly related to the actual problem being solved.]
 
 ## Success Criteria
@@ -49,7 +50,7 @@ The electronic light switch will be a small device with a motor and a sensor to 
 # Interview
 [add your transcription and/or notes from your client interview in this format:
 
-clients name: "I have this problem you see..."
+Henry: "I have this problem where I always forget to turn the lights off and leave the room. I wish there was a way where I can check to make sure im not wasting electricity and not having a big electricity bill."
 
-student: "Oh, really? Tell me more about that, please"]
+Me: "Oh, really? Tell me more about that, please"]
 
