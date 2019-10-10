@@ -40,15 +40,15 @@ The electronic light switch will be a small device with a motor and a sensor to 
 
 ## Rationale
 
-I will use Python because I am most familiar and it is relatively simple to use it for robotics. 
-
+I will use Python because I am most familiar with it and it is relatively simple to use it for robotics. 
+I will use Java because I am most familiar with it and it is relatively simple to use it for robotics.
 * Justify your approach to solving the client’s problem. Justify your choice of software. Your argument must be specific, and directly related to the actual problem being solved.]
 
 ## Success Criteria
 [Write a bulleted list of criteria you will use to define the success of your product. Each criteria must be testable. A criteria is similar to a hypothesis; a testable and educated estimation of what your results your product will return.]
+??
 
 # Interview
-[add your transcription and/or notes from your client interview in this format:
 
 Henry: "I have this problem where I always forget to turn the lights off and leave the room. I wish there was a way where I can check to make sure im not wasting electricity and not having a big electricity bill."
 
